@@ -1,0 +1,1 @@
+importScripts('https://pxl.support-VM.dev.altkraft.com/service-worker.js?id=MXwxMQ..');

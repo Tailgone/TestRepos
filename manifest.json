@@ -1,0 +1,5 @@
+{
+  "permissions": [ "activeTab" ],
+  "name": "http://10.200.0.95:8089",
+  "display": "standalone"
+}
