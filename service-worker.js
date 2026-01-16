@@ -1,1 +1,0 @@
-importScripts('https://pxl-support-vm.dev.altcraft.com/service-worker.js?id=OXwx');
